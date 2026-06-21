@@ -5,3 +5,8 @@ __pycache__/
 .DS_Store
 .idea/
 .vscode/
+
+# report 폴더 내의 컴파일 관련 중간 파일들 제외 (PDF만 업로드)
+report/report.md
+report/compile_report.py
+report/metadata.json
